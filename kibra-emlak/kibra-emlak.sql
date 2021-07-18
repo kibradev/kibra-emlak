@@ -1,4 +1,4 @@
-REATE TABLE `kibra_emlak` (
+CREATE TABLE `kibra_emlak` (
   `id` int(1) NOT NULL,
   `sifre` float NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
